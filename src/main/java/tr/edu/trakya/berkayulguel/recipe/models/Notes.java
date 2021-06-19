@@ -2,6 +2,7 @@ package tr.edu.trakya.berkayulguel.recipe.models;
 
 import javax.persistence.*;
 
+@Entity
 public class Notes {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
