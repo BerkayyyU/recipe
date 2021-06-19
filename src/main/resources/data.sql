@@ -1,3 +1,3 @@
-INSERT INTO category (description) VALUES ('American');
+/*INSERT INTO category (description) VALUES ('American');
 
-INSERT INTO unit_of_measure (description) VALUES ('Teaspoon');
+INSERT INTO unit_of_measure (description) VALUES ('Teaspoon');*/
